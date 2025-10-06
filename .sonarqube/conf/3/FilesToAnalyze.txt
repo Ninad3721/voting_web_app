@@ -1,0 +1,13 @@
+﻿C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\AdminControllerTest.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\CandidateControllerTest.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\LoginControllerTest.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\PartyControllerTest.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\VoterControllerTest.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ServiceTests\CandidateServiceTests.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ServiceTests\VoterServiceTests.cs
+C:\Users\ninad.trivedi\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\ninad.trivedi\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\ninad.trivedi\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\ninad.trivedi\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ninad.trivedi\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ninad.trivedi\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.utility.netcoreapp10.dll

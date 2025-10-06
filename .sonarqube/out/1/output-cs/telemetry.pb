@@ -1,0 +1,1 @@
+êRzC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Application\VotingApplication.Application.csproj¢net8.0ÚCSharp12

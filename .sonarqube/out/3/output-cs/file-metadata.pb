@@ -1,0 +1,12 @@
+’
+†C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\obj\Debug\net8.0\VotingApplication.Test.AssemblyInfo.csutf-8š
+ŽC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8”
+ˆC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\obj\Debug\net8.0\VotingApplication.Test.GlobalUsings.g.csutf-8…
+zC:\Users\ninad.trivedi\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8y
+pC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ServiceTests\VoterServiceTests.csutf-8}
+tC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ServiceTests\CandidateServiceTests.csutf-8~
+uC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\VoterControllerTest.csutf-8~
+uC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\PartyControllerTest.csutf-8~
+uC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\LoginControllerTest.csutf-8‚
+yC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\CandidateControllerTest.csutf-8~
+uC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Test\ControllerTests\AdminControllerTest.csutf-8

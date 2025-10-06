@@ -1,0 +1,17 @@
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Infrastructure.deps.json
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Infrastructure.runtimeconfig.json
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Infrastructure.dll
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Infrastructure.pdb
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Domain.dll
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\bin\Debug\net8.0\VotingApplication.Domain.pdb
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingAp.4FBDEC3C.Up2Date
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.dll
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\refint\VotingApplication.Infrastructure.dll
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.pdb
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\VotingApplication.Infrastructure.genruntimeconfig.cache
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApplication.Infrastructure\obj\Debug\net8.0\ref\VotingApplication.Infrastructure.dll

@@ -1,0 +1,1295 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.12.0.0",
+        "fileVersion": "4.12.0-3.24570.6 (913fb4ec)",
+        "semanticVersion": "4.12.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 221,
+                  "startColumn": 38,
+                  "endLine": 221,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 229,
+                  "startColumn": 38,
+                  "endLine": 229,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3993",
+          "level": "warning",
+          "message": "Specify AttributeUsage on 'CandidateAgeAttribute'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Validations/CandidateAgeAttribute.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 17,
+                  "endLine": 79,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3993",
+          "level": "warning",
+          "message": "Specify AttributeUsage on 'VoterAgeAttribute'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Validations/VoterAgeAttribute.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 13,
+                  "endLine": 42,
+                  "endColumn": 100
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Voter' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 34,
+                  "endLine": 41,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 72,
+                  "endLine": 63,
+                  "endColumn": 79
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 25,
+                  "endLine": 148,
+                  "endColumn": 32
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 223,
+                  "startColumn": 37,
+                  "endLine": 223,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Admin' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 34,
+                  "endLine": 77,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 72,
+                  "endLine": 92,
+                  "endColumn": 79
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 25,
+                  "endLine": 174,
+                  "endColumn": 32
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 37,
+                  "endLine": 231,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'No voter found with given Id' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 48,
+                  "endLine": 71,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 48,
+                  "endLine": 100,
+                  "endColumn": 78
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 48,
+                  "endLine": 121,
+                  "endColumn": 78
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 186,
+                  "startColumn": 48,
+                  "endLine": 186,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Voter with given id is deleted' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 48,
+                  "endLine": 76,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 48,
+                  "endLine": 106,
+                  "endColumn": 80
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 48,
+                  "endLine": 127,
+                  "endColumn": 80
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 48,
+                  "endLine": 192,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/CandidateService.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 103
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/CandidateService.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 20,
+                  "endLine": 30,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'adminId' to 'AdminId' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/AdminService.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 63,
+                  "endLine": 46,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 45,
+                  "endLine": 39,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 13,
+                  "endLine": 41,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 17,
+                  "endLine": 45,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 21,
+                  "endLine": 47,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 72,
+                  "endLine": 47,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 17,
+                  "endLine": 57,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 21,
+                  "endLine": 61,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 21,
+                  "endLine": 71,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 13,
+                  "endLine": 77,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 17,
+                  "endLine": 82,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 17,
+                  "endLine": 86,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 21,
+                  "endLine": 90,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 21,
+                  "endLine": 100,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+1",
+              "11": "+3 (incl 2 for nesting)",
+              "12": "+1",
+              "2": "+3 (incl 2 for nesting)",
+              "3": "+1",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+1",
+              "6": "+3 (incl 2 for nesting)",
+              "7": "+1",
+              "8": "+1",
+              "9": "+2 (incl 1 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 32,
+                  "endLine": 54,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 20,
+                  "endLine": 53,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/AdminService.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 32,
+                  "endLine": 37,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/AdminService.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 20,
+                  "endLine": 36,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make '_verifyPassword' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 22,
+                  "endLine": 127,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'SearchVoter' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 39,
+                  "endLine": 231,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'SearchVoter' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 39,
+                  "endLine": 231,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 37,
+                  "endLine": 130,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 20,
+                  "endLine": 129,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/CandidateService.cs",
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 26,
+                  "endLine": 172,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/CandidateService.cs",
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 17,
+                  "endLine": 171,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "SQL Query is dynamically formatted and assigned to query."
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 248,
+                  "startColumn": 26,
+                  "endLine": 248,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/VoterService.cs",
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 17,
+                  "endLine": 247,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "SQL Query is dynamically formatted and assigned to query."
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/PartyService.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/PartyService.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 17,
+                  "endLine": 101,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "SQL Query is dynamically formatted and assigned to query."
+            }
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'ToUpper'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/PartyService.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 17,
+                  "endLine": 135,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "UpdateParty calls ToUpper but does not use the new string instance that the method returns. Pass the instance as an argument to another method, assign the instance to a variable, or remove the call if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/PartyService.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 17,
+                  "endLine": 135,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.NullReferenceException' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 213,
+                  "startColumn": 23,
+                  "endLine": 213,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await FirstOrDefaultAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 34,
+                  "endLine": 208,
+                  "endColumn": 145
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'refreshTokenList'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 17,
+                  "endLine": 207,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member '_verifyPassword' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Application/Services/LoginService.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 22,
+                  "endLine": 127,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1806": {
+          "id": "CA1806",
+          "shortDescription": "Do not ignore method results",
+          "fullDescription": "A new object is created but never used; or a method that creates and returns a new string is called and the new string is never used; or a COM or P/Invoke method returns an HRESULT or error code that is never used.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1806",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1850": {
+          "id": "CA1850",
+          "shortDescription": "Prefer static 'HashData' method over 'ComputeHash'",
+          "fullDescription": "It is more efficient to use the static 'HashData' method over creating and managing a HashAlgorithm instance to call 'ComputeHash'.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1850",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S112": {
+          "id": "S112",
+          "shortDescription": "General or reserved exceptions should never be thrown",
+          "fullDescription": "This rule raises an issue when a general or reserved exception is thrown.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-112",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1192": {
+          "id": "S1192",
+          "shortDescription": "String literals should not be duplicated",
+          "fullDescription": "Duplicated string literals make the process of refactoring complex and error-prone, as any change would need to be propagated on all occurrences.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1192",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "An unused local variable is a variable that has been declared but is not used anywhere in the block of code where it is defined. It is dead code, contributing to unnecessary complexity and leading to confusion when reading the code. Therefore, it should be removed from your code to maintain clarity and efficiency.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2077": {
+          "id": "S2077",
+          "shortDescription": "Formatting SQL queries is security-sensitive",
+          "fullDescription": "Formatted SQL queries can be difficult to maintain, debug and can increase the risk of SQL injection when concatenating untrusted values into the query. However, this rule doesn’t detect SQL injections (unlike rule {rule:csharpsquid:S3649}), the goal is only to highlight complex/formatted queries.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2077",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2201": {
+          "id": "S2201",
+          "shortDescription": "Methods without side effects should not have their return values ignored",
+          "fullDescription": "When you do not use the return value of a method with no side effects, it indicates that something is wrong. Either this method is unnecessary, or the source code does not behave as expected and could lead to code defects. For example, there are methods, such as DateTime.AddYears, that don’t change the value of the input object, but instead, they return a new object whose value is the result of this operation, and as a result that you will have unexpected effects if you do not use the return value.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2201",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2325": {
+          "id": "S2325",
+          "shortDescription": "Methods and properties that don't access instance data should be static",
+          "fullDescription": "Methods and properties that don’t access instance data should be marked as static for the following reasons:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2325",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3993": {
+          "id": "S3993",
+          "shortDescription": "Custom attributes should be marked with \"System.AttributeUsageAttribute\"",
+          "fullDescription": "When defining custom attributes, AttributeUsageAttribute must be used to indicate where the attribute can be applied. This will:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3993",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6966": {
+          "id": "S6966",
+          "shortDescription": "Awaitable method should be used",
+          "fullDescription": "In an async method, any blocking operations should be avoided.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6966",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S927": {
+          "id": "S927",
+          "shortDescription": "Parameter names should match base declaration and other partial definitions",
+          "fullDescription": "Parameters are part of the method signature and its identity.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-927",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

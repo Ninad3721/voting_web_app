@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UdZsP/iEfIDnYHnzijpqD0oWEuru4Q0YCjbAI3wyZdc=",
+  "Source": "VotingApplication.Api",
+  "BasePath": "_content/VotingApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

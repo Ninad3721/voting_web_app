@@ -1,0 +1,310 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.12.0.0",
+        "fileVersion": "4.12.0-3.24570.6 (913fb4ec)",
+        "semanticVersion": "4.12.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS1929",
+          "level": "error",
+          "message": "'ISetup<ILoginService, Task<LoginResponseDto>>' does not contain a definition for 'ReturnsAsync' and the best extension method overload 'SequenceExtensions.ReturnsAsync<string>(ISetupSequentialResult<Task<string>>, string)' requires a receiver of type 'Moq.Language.ISetupSequentialResult<System.Threading.Tasks.Task<string>>'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ControllerTests/LoginControllerTest.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 13,
+                  "endLine": 47,
+                  "endColumn": 60
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/CandidateServiceTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 91,
+                  "endLine": 66,
+                  "endColumn": 106
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ControllerTests/AdminControllerTest.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 83,
+                  "endLine": 72,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 83,
+                  "endLine": 88,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/CandidateServiceTests.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 91,
+                  "endLine": 129,
+                  "endColumn": 106
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 151,
+                  "startColumn": 83,
+                  "endLine": 151,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/CandidateServiceTests.cs",
+                "region": {
+                  "startLine": 178,
+                  "startColumn": 91,
+                  "endLine": 178,
+                  "endColumn": 106
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 83,
+                  "endLine": 200,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "Cannot convert null literal to non-nullable reference type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/CandidateServiceTests.cs",
+                "region": {
+                  "startLine": 267,
+                  "startColumn": 127,
+                  "endLine": 267,
+                  "endColumn": 131
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 293,
+                  "startColumn": 83,
+                  "endLine": 293,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 336,
+                  "startColumn": 91,
+                  "endLine": 336,
+                  "endColumn": 106
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "Cannot convert null literal to non-nullable reference type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ninad.trivedi/source/repos/VotingApi/VotingApi/VotingApplication.Test/ServiceTests/VoterServiceTests.cs",
+                "region": {
+                  "startLine": 394,
+                  "startColumn": 119,
+                  "endLine": 394,
+                  "endColumn": 123
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS1929": {
+          "id": "CS1929",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1929)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8625": {
+          "id": "CS8625",
+          "shortDescription": "Cannot convert null literal to non-nullable reference type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8625)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

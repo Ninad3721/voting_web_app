@@ -1,0 +1,16 @@
+﻿C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\AdminController.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\CandidateController.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\LoginController.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\PartyController.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\VoterController.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Middleware\GlobalExceptionHandlingMiddleware.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Program.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.GlobalUsings.g.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.AssemblyInfo.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\appsettings.Development.json
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\appsettings.json
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\logs\exceptions.log
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\VotingApi.http
+C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Properties\launchSettings.json

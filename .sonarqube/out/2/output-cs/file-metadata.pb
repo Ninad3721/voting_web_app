@@ -1,0 +1,12 @@
+ó
+ãC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.MvcApplicationPartsAssemblyInfo.csutf-8É
+xC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.AssemblyInfo.csutf-8ç
+ÅC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Ö
+zC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\obj\Debug\net8.0\VotingApplication.Api.GlobalUsings.g.csutf-8U
+LC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Program.csutf-8z
+qC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Middleware\GlobalExceptionHandlingMiddleware.csutf-8i
+`C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\VoterController.csutf-8i
+`C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\PartyController.csutf-8i
+`C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\LoginController.csutf-8m
+dC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\CandidateController.csutf-8i
+`C:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApi\Controllers\AdminController.csutf-8

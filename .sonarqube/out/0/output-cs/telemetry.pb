@@ -1,0 +1,1 @@
+†RpC:\Users\ninad.trivedi\source\repos\VotingApi\VotingApi\VotingApplication.Domain\VotingApplication.Domain.csproj¢net8.0òCSharp12
